@@ -1,0 +1,21 @@
+#gallery{
+	width: 100%;
+	min-height: 100px;
+	background-color: #cccccc;
+	display: inline-block;
+	padding-bottom: 1em;
+}
+
+#gallery li{
+	width: 33.33%;
+	min-height: 100px;
+	list-style: none;
+	float: left;
+	text-align: center;
+}
+
+#gallery img{
+	width: 90%;
+	height: auto;
+	list-style: none;
+}
